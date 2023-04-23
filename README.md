@@ -1,16 +1,13 @@
-### Hi there 👋
+Hello! 👋 
 
-<!--
-**danielarmatos/danielarmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Daniela Matos and I am currently studying at 42 School in Porto, where I'm learning the C programming language, and developing software using classic algorithms.
 
-Here are some ideas to get you started:
+I have a degree in Communication Design, 3 years of experience as a Graphic and Web Designer, and I have been working for the last 4 years as a Mobile App Designer and Developer.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+- 🔭 Currently working as a Mobile App Designer & Developer
+- 🌱 Currently learning C and C++ at 42 School
+- 🎓 Bachelor Degree in Communication Design
+- 📸 Photographer during free time
+- 💬 Feel free to ask me about anything
+- 📫 How to reach me: danielareismatos@gmail.com
