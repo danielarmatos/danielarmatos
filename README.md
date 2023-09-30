@@ -1,6 +1,6 @@
 Hello! 👋 
 
-My name is Daniela Matos and I am currently studying at 42 School in Porto, where I'm learning the C programming language, and developing software using classic algorithms.
+My name is Daniela Matos and I am currently studying at 42 School in Porto, where I'm learning the C and C++ programming languages, and developing software using classic algorithms.
 
 
 - 🔭 Currently working as a Mobile App Designer & Developer
